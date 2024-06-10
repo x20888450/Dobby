@@ -24,7 +24,7 @@ option(NearBranch "Enable near branch trampoline" ON)
 
 option(FullFloatingPointRegisterPack "Save and pack all floating-point registers" OFF)
 
-option(Plugin.SymbolResolver "Enable symbol resolver" ON)
+option(Plugin.SymbolResolver "Enable symbol resolver" OFF)
 
 option(Plugin.ImportTableReplace "Enable import table replace " OFF)
 
